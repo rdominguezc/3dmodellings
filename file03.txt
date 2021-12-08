@@ -1,0 +1,8 @@
+total 0
+drwxr-xr-x 3 root root  92 Dec  8 05:16 .
+drwxr-xr-x 1 root root  21 Dec  8 03:06 ..
+drwxr-xr-x 8 root root 166 Dec  8 05:12 .git
+-rw-r--r-- 1 root root   0 Dec  8 05:15 file01.txt
+-rw-r--r-- 1 root root   0 Dec  8 05:16 file02.txt
+-rw-r--r-- 1 root root   0 Dec  8 05:16 file03.txt
+-rw-r--r-- 1 root root   0 Dec  8 03:03 someFile.txt
